@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/473651601651793940?showDisplayName=true)](https://discord.com/users/473651601651793940)
+
 <!--
 **otonierusv/otonierusv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
