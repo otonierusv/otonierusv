@@ -1,7 +1,5 @@
 ## Welcome 👋
 <img src="https://cdn.discordapp.com/attachments/1183096857950441522/1184749809253486692/wide.jpg">
-<br>
-<br>
 
 I mostly program as a hobby rather than a profession, so you won't see me as involved in these things. While taking this up as a hobby, I plan to learn Swift and C++ in the near future. Main language: **JavaScript**
 
@@ -43,8 +41,6 @@ I mostly program as a hobby rather than a profession, so you won't see me as inv
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-<br>
-<br>
 </div>
 <div style="display: flex;">
 <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001030.ca97d04c7c53486098fcc29636f17386.0702" width="200">
