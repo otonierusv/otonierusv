@@ -1,7 +1,5 @@
 ## Welcome 👋
 <img src="https://cdn.discordapp.com/attachments/1183096857950441522/1184749809253486692/wide.jpg">
-<br>
-<br>
 
 I mostly program as a hobby rather than a profession, so you won't see me as involved in these things. While taking this up as a hobby, I plan to learn Swift and C++ in the near future. Main language: **JavaScript**
 
