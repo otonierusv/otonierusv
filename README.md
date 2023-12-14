@@ -3,6 +3,7 @@
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/_otonieru)
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="30"> More about me:
 
 
 
