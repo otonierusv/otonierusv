@@ -1,37 +1,54 @@
-<div align="center">
-<h1>Hello! I'm Oto 👋
-</div>
+## Welcome 👋
+<img src="https://cdn.discordapp.com/attachments/1183096857950441522/1184749809253486692/wide.jpg">
+<br>
+<br>
 
-<blockquote>
-<p><em>Developer and Administrator at <a href="https://github.com/AmbitiouStudios">AmbitiouStudios</a></br></em></p>
+I mostly program as a hobby rather than a profession, so you won't see me as involved in these things. While taking this up as a hobby, I plan to learn Swift and C++ in the near future. Main language: **JavaScript**
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/_otonieru)
-</blockquote>
-
-<div align="center">
-    <h3>More things about me:</h3>
-</div>
-
-```javascript
-const toto = {
-    pronouns: "he" | "him",
-    code: ["Javascript", "Python", "Lua", "HTML", "CSS"],
-    tools: ["Node", ]
+ All my friends call me ***Jer***, but you can call me **Oto**!
+ 
+ - 🧑‍💻 Junior developer
+ - 📷 Hobbyist photographer
+ - 🏟️ "Community manager" for some
+ - 🍍 Current developer of Pineapple 2
+ - 🍎 Apple fanboy (kinda)
+ 
+ 
+### More about me:
+```json
+{
+    "level": 18,
+    "country": "El Salvador",
+    "languages": ["en_US", "es_SV"],
+    "programming_with": ["Javascript", "Python", "Lua"],
+    "learning": ["Swift", "C++"]
+    "personal": {
+        "favorite_artist": "Juan Gabriel"
+        "favorite_games": [
+            "Grand Theft Auto IV", 
+            "GTA IV: The Ballad of Gay Tony", 
+            "Minecraft"],
+        "favorite_color": "purple",
+        "favorite_songs": ["Chiquitita", "Así Fue", "The Boss"],
+    }
 }
 ```
 
+
+
+<hr>
 
 <div align="center">
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-</div>
-
 <br>
-<hr>
+<br>
+</div>
+<div style="display: flex;">
+<img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001030.ca97d04c7c53486098fcc29636f17386.0702" width="200">
 
-<div align="center">
+<a href="https://discord.com/users/473651601651793940"><img src="https://lanyard.cnrad.dev/api/473651601651793940?showDisplayName=true"></a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/473651601651793940?showDisplayName=true)](https://discord.com/users/473651601651793940)
 </div>
