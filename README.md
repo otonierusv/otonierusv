@@ -48,5 +48,6 @@ I mostly program as a hobby rather than a profession, so you won't see me as inv
 </div>
 <div style="display: flex;">
 <a href="https://discord.com/users/473651601651793940"><img src="https://lanyard.cnrad.dev/api/473651601651793940?showDisplayName=true"></a>
- [https://github-profile-apple-music.web.app/api/v1/users/rWXvCOWs25aA8daeervi/recent/played/tracks?template=template_1_3](https://github-profile-apple-music.web.app/api/v1/users/rWXvCOWs25aA8daeervi/recent/played/tracks?template=template_1_3)
+ 
+![https://github-profile-apple-music.web.app/api/v1/users/rWXvCOWs25aA8daeervi/recent/played/tracks?template=template_1_3](https://github-profile-apple-music.web.app/api/v1/users/rWXvCOWs25aA8daeervi/recent/played/tracks?template=template_1_3)
 </div>
