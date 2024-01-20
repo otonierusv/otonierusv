@@ -37,8 +37,6 @@ I mostly program as a hobby rather than a profession, so you won't see me as inv
 <hr>
 
 <div align="center">
-
- AIzaSyCxUy8buaFgWsezQRsCds16D6w7erBLWFM
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
