@@ -15,7 +15,7 @@ I mostly program as a hobby rather than a profession, so you won't see me as inv
 ### More about me:
 ```json
 {
-    "level": 18,
+    "level": 19,
     "country": "El Salvador",
     "languages": ["en_US", "es_SV"],
     "programming_with": ["Javascript", "Python", "Lua"],
@@ -25,7 +25,9 @@ I mostly program as a hobby rather than a profession, so you won't see me as inv
         "favorite_games": [
             "Grand Theft Auto IV", 
             "GTA IV: The Ballad of Gay Tony", 
-            "Minecraft"],
+            "Minecraft",
+            "Halo",
+            "Roblox"],
         "favorite_color": "purple",
         "favorite_songs": ["Chiquitita", "Así Fue", "The Boss"],
     }
