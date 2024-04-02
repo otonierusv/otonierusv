@@ -46,6 +46,3 @@ I mostly program as a hobby rather than a profession, so you won't see me as inv
 <br>
 <br>
 </div>
-<div style="display: flex;">
-<a href="https://discord.com/users/473651601651793940"><img src="https://lanyard.cnrad.dev/api/473651601651793940?showDisplayName=true"></a>
-</div>
