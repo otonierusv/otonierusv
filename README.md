@@ -40,6 +40,8 @@ I mostly program as a hobby rather than a profession, so you won't see me as inv
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://dans-things.com/wp-content/uploads/2018/10/SpinningNetscape.gif" alt="Get Netscape"/>
 <br>
 <br>
 </div>
