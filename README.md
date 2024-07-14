@@ -3,13 +3,10 @@
 
 I mostly program as a hobby rather than a profession, so you won't see me as involved in these things. While taking this up as a hobby, I plan to learn Swift and C++ in the near future. Main language: **JavaScript**
 
- All my friends call me ***Jer***, but you can call me **Oto**!
- 
- - 🧑‍💻 Junior developer
+ - 🧑‍💻 Hobbyist programmer
  - 📷 Hobbyist photographer
  - 🏟️ "Community manager" for some
- - 🍍 Current developer of Pineapple 2
- - 🍎 Apple fanboy (kinda)
+ - 💥 Currently developing some weird stuff
  
  
 ### More about me:
@@ -18,18 +15,18 @@ I mostly program as a hobby rather than a profession, so you won't see me as inv
     "level": 19,
     "country": "El Salvador",
     "languages": ["en_US", "es_SV"],
-    "programming_with": ["Javascript", "Python", "Lua"],
+    "programming_with": ["Javascript", "Python"],
     "learning": ["Swift", "C++"]
     "personal": {
-        "favorite_artist": "Juan Gabriel"
         "favorite_games": [
             "Grand Theft Auto IV", 
             "GTA IV: The Ballad of Gay Tony", 
             "Minecraft",
             "Halo",
-            "Roblox"],
+            "Roblox"
+        ],
         "favorite_color": "purple",
-        "favorite_songs": ["Chiquitita", "Así Fue", "The Boss"],
+        "favorite_songs": ["Chiquitita", "Así Fue", "The Boss", "We're Good"],
     }
 }
 ```
